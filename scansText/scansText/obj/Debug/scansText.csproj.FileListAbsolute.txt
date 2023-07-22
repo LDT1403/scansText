@@ -1,0 +1,116 @@
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\x86\leptonica-1.82.0.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\x86\tesseract50.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\x64\leptonica-1.82.0.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\x64\tesseract50.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\scansText.exe.config
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\scansText.exe
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\scansText.pdb
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Imaging.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Math.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Video.DirectShow.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Video.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\Tesseract.dll
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.xml
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Imaging.xml
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Math.xml
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Video.xml
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\bin\Debug\AForge.Video.DirectShow.xml
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.csproj.AssemblyReference.cache
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.csproj.SuggestedBindingRedirects.cache
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.Form1.resources
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.Properties.Resources.resources
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.csproj.GenerateResource.cache
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.csproj.CoreCompileInputs.cache
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.csproj.CopyComplete
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.exe
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.pdb
+E:\FPT University\Summer 2023\prn211\PRN211_Day2\scansText\scansText\obj\Debug\scansText.Form2.resources
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\x86\tesseract50.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\x64\tesseract50.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\scansText.exe.config
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\scansText.exe
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\scansText.pdb
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Imaging.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Math.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Video.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Tesseract.dll
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Imaging.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Math.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Video.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.pdb
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.pdb
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.csproj.AssemblyReference.cache
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.csproj.SuggestedBindingRedirects.cache
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.Form1.resources
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.Form2.resources
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.Properties.Resources.resources
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.csproj.GenerateResource.cache
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.csproj.CoreCompileInputs.cache
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.csproj.CopyComplete
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.exe
+C:\Users\win\Downloads\scansText\scansText\scansText\obj\Debug\scansText.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\x86\leptonica-1.82.0.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\x86\tesseract50.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\x64\leptonica-1.82.0.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\x64\tesseract50.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\scansText.exe.config
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\scansText.exe
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\scansText.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Imaging.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Math.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Video.DirectShow.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Video.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.PlatformServices.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Newtonsoft.Json.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Tesseract.dll
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Imaging.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Math.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Video.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\AForge.Video.DirectShow.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Auth.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Core.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.pdb
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Google.Apis.Sheets.v4.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\bin\Debug\Newtonsoft.Json.xml
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.csproj.AssemblyReference.cache
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.csproj.SuggestedBindingRedirects.cache
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.Form1.resources
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.Form2.resources
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.Properties.Resources.resources
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.csproj.GenerateResource.cache
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.csproj.CoreCompileInputs.cache
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.csproj.CopyComplete
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.exe
+E:\FPT University\Summer 2023\prn211\New folder\scansText\scansText\scansText\obj\Debug\scansText.pdb
